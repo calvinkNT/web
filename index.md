@@ -1,3 +1,9 @@
+<style>
+  h3 {
+    margin-bottom: 6px;
+  }
+</style>
+
 # What's up?
 
 I'm Calvin, a 15-year-old student who enjoys tinkering with technology, playing sports, and listening to music.
@@ -6,18 +12,19 @@ I'm Calvin, a 15-year-old student who enjoys tinkering with technology, playing 
 
 # Projects
 ### Trellis
-A private Vine revival; I reverse-engineered the Vine social media app, and built a new server around it, restoring functionality.
-
+A private Vine revival; I reverse-engineered the Vine social media app, and built a new server around it, restoring functionality.  
 <sup>May 2026 - Present &middot; [Website](https://trellis.consciousb.one), [Demo Video](https://www.youtube.com/watch?v=puNC5kEVflo)</sup>
 
-### Percept
-A small Cydia tweak for iOS 5-7 that redirects outgoing Siri traffic to ChatGPT. [I originally did this using SiriProxy](https://www.youtube.com/watch?v=wZcufOAslsw), but then made it into a tweak.
+### KeepScratchPrivacy
+A Chrome extension which removes a popup asking users to select their U.S. state in Scratch.  
+<sup>**Unmaintained** &raquo; Jan 2026 &middot; [GitHub](https://github.com/calvinkNT/KeepScratchPrivacy)</sup>
 
-<sup>Unmaintained &raquo; Jan. 2026 &middot; [GitHub](https://github.com/calvinkNT/Percept), [Demo/Tutorial Video](https://www.youtube.com/watch?v=YGhYX8cglvg)</sup>
+### Percept
+A small Cydia tweak for iOS 5-7 that redirects outgoing Siri traffic to ChatGPT. [I originally did this using SiriProxy](https://www.youtube.com/watch?v=wZcufOAslsw).  
+<sup>**Unmaintained** &raquo; Jan. 2026 &middot; [GitHub](https://github.com/calvinkNT/Percept), [Demo/Tutorial Video](https://www.youtube.com/watch?v=YGhYX8cglvg)</sup>
 
 ### Cydia-Repo-Kit
-This is an all-in-one Python script with some helpful utilities for creating and managing a Cydia repository.
-
-<sup>Unmaintained &raquo; June-Nov. 2024 &middot; [GitHub](https://github.com/calvinkNT/Cydia-Repo-Kit)</sup>
+This is an all-in-one Python script with some helpful utilities for creating and managing a Cydia repository.  
+<sup>**Unmaintained** &raquo; June-Nov. 2024 &middot; [GitHub](https://github.com/calvinkNT/Cydia-Repo-Kit)</sup>
 
 <a href="https://calvink19.co/"><img src="assets/88x31.gif"></a> <a href="https://astro-15.github.io/"><img src="assets/astro.png"></a>  <a href="https://consciousb.one" target="_blank"><img src="assets//cbone.png"></a>
