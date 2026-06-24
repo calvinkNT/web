@@ -19,4 +19,4 @@ A small Cydia tweak for iOS 5-7 that redirects outgoing Siri traffic to ChatGPT.
 This is an all-in-one Python script with some helpful utilities for creating and managing a Cydia repository.  
 <sup>**Unmaintained** &raquo; June-Nov. 2024 &middot; [GitHub](https://github.com/calvinkNT/Cydia-Repo-Kit)</sup>
 
-<a href="https://calvink19.co/" target="_blank"><img src="https://calvink19.co/88x31"></a> <a href="https://astro-15.github.io/" target="_blank"><img src="assets/astro.png"></a>  <a href="https://consciousb.one" target="_blank"><img src="assets//cbone.png"></a> <iframe src="//incr.easrng.net/badge?key=calvink19" style="background: url(//incr.easrng.net/bg.gif)" title="increment badge" width="88" height="31" frameborder="0"></iframe> 
+<a href="https://calvink19.co/" target="_blank"><img src="https://calvink19.co/88x31"></a> <a href="https://astro-15.github.io/" target="_blank"><img src="assets/astro.png"></a>  <a href="https://consciousb.one" target="_blank"><img src="assets//cbone.png"></a>
