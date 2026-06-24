@@ -1,12 +1,4 @@
-<style>
-  h3 {
-    margin-bottom: 6px;
-  }
-</style>
-
-# What's up?
-
-I'm Calvin, a 15-year-old student who enjoys tinkering with technology, playing sports, and listening to music.
+What's up? I'm Calvin, a 15-year-old student who enjoys tinkering with technology, playing sports, and listening to music.
 
 [GitHub](https://github.com/calvinkNT) / [YouTube](https://youtube.com/@calvinkNT) / [E-mail](mailto:calvink_nt@icloud.com)
 
@@ -27,4 +19,4 @@ A small Cydia tweak for iOS 5-7 that redirects outgoing Siri traffic to ChatGPT.
 This is an all-in-one Python script with some helpful utilities for creating and managing a Cydia repository.  
 <sup>**Unmaintained** &raquo; June-Nov. 2024 &middot; [GitHub](https://github.com/calvinkNT/Cydia-Repo-Kit)</sup>
 
-<a href="https://calvink19.co/"><img src="assets/88x31.gif"></a> <a href="https://astro-15.github.io/"><img src="assets/astro.png"></a>  <a href="https://consciousb.one" target="_blank"><img src="assets//cbone.png"></a>
+<a href="https://calvink19.co/"><img src="https://calvink19.co/88x31"></a> <a href="https://astro-15.github.io/"><img src="assets/astro.png"></a>  <a href="https://consciousb.one" target="_blank"><img src="assets//cbone.png"></a>
