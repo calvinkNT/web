@@ -2,28 +2,22 @@
 
 I'm Calvin, a 15-year-old student who enjoys tinkering with technology, playing sports, and listening to music.
 
-Social media:
-- Discord `@qalwin`
-- YouTube `@calvinkNT`
-- GitHub `@calvinkNT`
-- E-mail `calvink_nt@icloud.com`
+[GitHub](https://github.com/calvinkNT) / [YouTube](https://youtube.com/@calvinkNT) / [E-mail](mailto:calvink_nt@icloud.com)
 
 # Projects
-## Active/Maintained
-### Trellis - [Website](https://trellis.consciousb.one) - [Demo Video](https://www.youtube.com/watch?v=puNC5kEVflo)
+### Trellis
 A private Vine revival; I reverse-engineered the Vine social media app, and built a new server around it, restoring functionality.
 
-<sup>_May 2026 - Present_</sup>
+<sup>May 2026 - Present &middot; [Website](https://trellis.consciousb.one), [Demo Video](https://www.youtube.com/watch?v=puNC5kEVflo)</sup>
 
-## Inactive/Unmaintained
-### Percept - [GitHub](https://github.com/calvinkNT/Percept) - [Demo/Tutorial Video](https://www.youtube.com/watch?v=YGhYX8cglvg)
+### Percept
 A small Cydia tweak for iOS 5-7 that redirects outgoing Siri traffic to ChatGPT. [I originally did this using SiriProxy](https://www.youtube.com/watch?v=wZcufOAslsw), but then made it into a tweak.
 
-<sup>_Jan. 2026_</sup>
+<sup>Unmaintained &raquo; Jan. 2026 &middot; [GitHub](https://github.com/calvinkNT/Percept), [Demo/Tutorial Video](https://www.youtube.com/watch?v=YGhYX8cglvg)</sup>
 
-### Cydia-Repo-Kit - [GitHub](https://github.com/calvinkNT/Cydia-Repo-Kit)
-The first project I published, this is an all-in-one Python script with some helpful utilities for creating and managing a Cydia repository. The code is not very good.
+### Cydia-Repo-Kit
+This is an all-in-one Python script with some helpful utilities for creating and managing a Cydia repository.
 
-<sup>_June-Nov. 2024_</sup>
+<sup>Unmaintained &raquo; June-Nov. 2024 &middot; [GitHub](https://github.com/calvinkNT/Cydia-Repo-Kit)</sup>
 
-<a href="https://consciousb.one" target="_blank"><img src="https://consciousb.one/assets/88x31/cbone.png"></a>
+<a href="https://calvink19.co/"><img src="assets/88x31.gif"></a> <a href="https://astro-15.github.io/"><img src="assets/astro.png"></a>  <a href="https://consciousb.one" target="_blank"><img src="assets//cbone.png"></a>
