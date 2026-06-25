@@ -22,12 +22,8 @@ A small Cydia tweak for iOS 5-7 that redirects outgoing Siri traffic to ChatGPT.
 <sup>**Unmaintained** &raquo; January 2026 &raquo; [GitHub](https://github.com/calvinkNT/Percept), [Demo/Tutorial Video](https://www.youtube.com/watch?v=YGhYX8cglvg)</sup>
 
 ### WhatsAppX
-I forked another developer's project (a recreation of the WhatsApp app for iOS 3-9), tried to clean up the code, and make it more reliable. It was too much of a challenge for me, and I abandoned the project.  
+I forked another developer's project (a recreation of the WhatsApp app for iOS 3-9), tried to clean up the code, added new features, and made it (slightly) more reliable.  
 <sup>**Unmaintained** &raquo; June-July 2025 &raquo; [GitHub](https://github.com/calvinkNT/WhatsAppX)</sup>
-
-### RedGround
-A very simple social media app I threw together to learn Objective-C.  
-<sup>**Unmaintained** &raquo; May-July 2025 &raquo; [GitHub](https://github.com/calvinkNT/RedGround)</sup>
 
 ### Cydia-Repo-Kit
 This is an all-in-one Python script with some helpful utilities for creating and managing a Cydia repository.  
