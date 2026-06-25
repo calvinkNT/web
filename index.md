@@ -4,16 +4,16 @@ What's up? I'm Calvin, a student from the US who enjoys tinkering with technolog
 
 # Projects
 ### Trellis
-A private Vine revival; I reverse-engineered the Vine social media app and built a new server around it, restoring functionality.  
-<sup>May 2026 - Present &middot; [Website](https://trellis.consciousb.one), [Demo Video](https://www.youtube.com/watch?v=puNC5kEVflo)</sup>
+A private Vine revival; I reverse-engineered the Vine social media app and built a new server around it.  
+<sup>May 2026 - Present &raquo; [Website](https://trellis.consciousb.one), [Demo Video](https://www.youtube.com/watch?v=puNC5kEVflo)</sup>
 
 ### KeepScratchPrivacy
 A Chrome extension which removes a popup asking users to select their US state in Scratch.  
-<sup>**Unmaintained** &raquo; Jan. 2026 &middot; [GitHub](https://github.com/calvinkNT/KeepScratchPrivacy)</sup>
+<sup>**Unmaintained** &raquo; Jan. 2026 &raquo; [GitHub](https://github.com/calvinkNT/KeepScratchPrivacy)</sup>
 
 ### Percept
 A small Cydia tweak for iOS 5-7 that redirects outgoing Siri traffic to ChatGPT. [I originally did this using SiriProxy](https://www.youtube.com/watch?v=wZcufOAslsw).  
-<sup>**Unmaintained** &raquo; Jan. 2026 &middot; [GitHub](https://github.com/calvinkNT/Percept), [Demo/Tutorial Video](https://www.youtube.com/watch?v=YGhYX8cglvg)</sup>
+<sup>**Unmaintained** &raquo; Jan. 2026 &raquo; [GitHub](https://github.com/calvinkNT/Percept), [Demo/Tutorial Video](https://www.youtube.com/watch?v=YGhYX8cglvg)</sup>
 
 ### Cydia-Repo-Kit
 This is an all-in-one Python script with some helpful utilities for creating and managing a Cydia repository.  
