@@ -9,8 +9,8 @@ What's up? I'm Calvin, a student from the US who enjoys tinkering with technolog
 I started a YouTube channel a few years ago, making tutorials to help people fix services on their old iOS devices. I don't post much on it now, though. If you'd like to check it out, the link is right above.  
 <sup>September 2024 - Present</sup>
 
-### Trellis (a.k.a. "Twine")
-A private Vine revival; I reverse-engineered the Vine social media app and built a new server around it.  
+### Trellis
+A collaborative project that brings the Vine app back to life.  
 <sup>May 2026 - Present &raquo; [Website](https://trellis.consciousb.one), [Demo Video](https://www.youtube.com/watch?v=puNC5kEVflo)</sup>
 
 ### KeepScratchPrivacy
